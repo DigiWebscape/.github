@@ -15,4 +15,4 @@ DigiWebscape provides developer SDKs, autonomous agent interfaces (MCP), open co
 - EU ePrivacy Article 5(3) audience measurement exemption architecture
 - Tier-1 Distributed Edge Infrastructure execution
 
-📖 [Documentation](https://digiwebscape.com/platform/docs) • 🌐 [Platform Console](https://app.digiwebscape.com) • ⚡ [Free AI Audit](https://digiwebscape.com/free-audit)
+📖 [Documentation](https://digiwebscape.com/platform/docs) | 🌐 [Platform Console](https://app.digiwebscape.com) | ⚡ [Free AI Audit](https://digiwebscape.com/free-audit)
