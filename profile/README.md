@@ -11,7 +11,7 @@ DigiWebscape provides developer SDKs, autonomous agent interfaces (MCP), open co
 - **[private-insights-beacon](https://github.com/DigiWebscape/private-insights-beacon)**: Reference reverse-proxy configurations (Next.js, Cloudflare Workers, Nginx) for cookieless edge telemetry.
 
 ### 🔒 Security & Privacy Architecture
-- Zero-tracking cookies · Zero localStorage writes
+- Zero-tracking cookies | Zero localStorage writes
 - EU ePrivacy Article 5(3) audience measurement exemption architecture
 - Tier-1 Distributed Edge Infrastructure execution
 
