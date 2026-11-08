@@ -1,4 +1,4 @@
-# DigiWebscape™ — The Sovereign Digital Intelligence Platform
+# DigiWebscape™ - The Sovereign Digital Intelligence Platform
 > Build. Sell. Track. Dominate AI Search.
 
 DigiWebscape provides developer SDKs, autonomous agent interfaces (MCP), open commerce specifications, and cookieless telemetry libraries to engineer visibility across conversational AI foundation models.
