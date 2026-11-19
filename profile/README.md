@@ -1,4 +1,4 @@
-# DigiWebscape™ — The Sovereign Digital Intelligence Platform
+# DigiWebscape™ - The Sovereign Digital Intelligence Platform
 
 > Build. Sell. Track. Dominate AI Search.
 
@@ -14,6 +14,7 @@ DigiWebscape open-source tooling is distributed across four standalone public re
 - **[@digiwebscape/sdk](https://github.com/DigiWebscape/sdk)**: Isomorphic TypeScript / Node.js client for API interactions and programmatic auditing.
 - **[digiwebscape-python](https://github.com/DigiWebscape/python-sdk)**: Official Python SDK on PyPI for machine learning and automated benchmarking pipelines.
 - **[agent-transaction-protocol](https://github.com/DigiWebscape/atp)**: Open specification for Agent Transaction Protocol (ATP/1.0) machine checkout endpoints.
+- **[@digiwebscape/beacon](https://github.com/DigiWebscape/insights-beacon)**: Lightweight JavaScript client and framework wrappers (React, Vue, Svelte) for cookieless edge telemetry.
 
 ---
 
